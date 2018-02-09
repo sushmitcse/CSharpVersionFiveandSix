@@ -1,0 +1,7 @@
+c:\users\310298433\source\repos\CSharpVersions\CSharpCallerMemberAttribute\bin\Debug\CSharpCallerMemberAttribute.exe.config
+c:\users\310298433\source\repos\CSharpVersions\CSharpCallerMemberAttribute\bin\Debug\CSharpCallerMemberAttribute.exe
+c:\users\310298433\source\repos\CSharpVersions\CSharpCallerMemberAttribute\bin\Debug\CSharpCallerMemberAttribute.pdb
+c:\users\310298433\source\repos\CSharpVersions\CSharpCallerMemberAttribute\obj\Debug\CSharpCallerMemberAttribute.csprojResolveAssemblyReference.cache
+c:\users\310298433\source\repos\CSharpVersions\CSharpCallerMemberAttribute\obj\Debug\CSharpCallerMemberAttribute.csproj.CoreCompileInputs.cache
+c:\users\310298433\source\repos\CSharpVersions\CSharpCallerMemberAttribute\obj\Debug\CSharpCallerMemberAttribute.exe
+c:\users\310298433\source\repos\CSharpVersions\CSharpCallerMemberAttribute\obj\Debug\CSharpCallerMemberAttribute.pdb

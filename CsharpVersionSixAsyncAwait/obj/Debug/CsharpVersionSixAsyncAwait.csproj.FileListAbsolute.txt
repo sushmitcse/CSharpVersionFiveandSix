@@ -1,0 +1,7 @@
+c:\users\310298433\source\repos\CSharpVersions\CsharpVersionSixAsyncAwait\bin\Debug\CsharpVersionSixAsyncAwait.exe.config
+c:\users\310298433\source\repos\CSharpVersions\CsharpVersionSixAsyncAwait\bin\Debug\CsharpVersionSixAsyncAwait.exe
+c:\users\310298433\source\repos\CSharpVersions\CsharpVersionSixAsyncAwait\bin\Debug\CsharpVersionSixAsyncAwait.pdb
+c:\users\310298433\source\repos\CSharpVersions\CsharpVersionSixAsyncAwait\obj\Debug\CsharpVersionSixAsyncAwait.csprojResolveAssemblyReference.cache
+c:\users\310298433\source\repos\CSharpVersions\CsharpVersionSixAsyncAwait\obj\Debug\CsharpVersionSixAsyncAwait.csproj.CoreCompileInputs.cache
+c:\users\310298433\source\repos\CSharpVersions\CsharpVersionSixAsyncAwait\obj\Debug\CsharpVersionSixAsyncAwait.exe
+c:\users\310298433\source\repos\CSharpVersions\CsharpVersionSixAsyncAwait\obj\Debug\CsharpVersionSixAsyncAwait.pdb

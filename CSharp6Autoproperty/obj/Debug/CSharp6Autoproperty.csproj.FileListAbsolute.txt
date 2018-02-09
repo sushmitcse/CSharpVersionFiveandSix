@@ -1,0 +1,6 @@
+c:\users\310298433\source\repos\CSharpVersions\CSharp6Autoproperty\bin\Debug\CSharp6Autoproperty.exe.config
+c:\users\310298433\source\repos\CSharpVersions\CSharp6Autoproperty\bin\Debug\CSharp6Autoproperty.exe
+c:\users\310298433\source\repos\CSharpVersions\CSharp6Autoproperty\bin\Debug\CSharp6Autoproperty.pdb
+c:\users\310298433\source\repos\CSharpVersions\CSharp6Autoproperty\obj\Debug\CSharp6Autoproperty.csproj.CoreCompileInputs.cache
+c:\users\310298433\source\repos\CSharpVersions\CSharp6Autoproperty\obj\Debug\CSharp6Autoproperty.exe
+c:\users\310298433\source\repos\CSharpVersions\CSharp6Autoproperty\obj\Debug\CSharp6Autoproperty.pdb

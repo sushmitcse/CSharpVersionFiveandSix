@@ -1,0 +1,7 @@
+c:\users\310298433\source\repos\CSharpVersions\TaskIOBoundApplication\bin\Debug\TaskIOBoundApplication.exe.config
+c:\users\310298433\source\repos\CSharpVersions\TaskIOBoundApplication\bin\Debug\TaskIOBoundApplication.exe
+c:\users\310298433\source\repos\CSharpVersions\TaskIOBoundApplication\bin\Debug\TaskIOBoundApplication.pdb
+c:\users\310298433\source\repos\CSharpVersions\TaskIOBoundApplication\obj\Debug\TaskIOBoundApplication.csproj.CoreCompileInputs.cache
+c:\users\310298433\source\repos\CSharpVersions\TaskIOBoundApplication\obj\Debug\TaskIOBoundApplication.exe
+c:\users\310298433\source\repos\CSharpVersions\TaskIOBoundApplication\obj\Debug\TaskIOBoundApplication.pdb
+c:\users\310298433\source\repos\CSharpVersions\TaskIOBoundApplication\obj\Debug\TaskIOBoundApplication.csprojResolveAssemblyReference.cache

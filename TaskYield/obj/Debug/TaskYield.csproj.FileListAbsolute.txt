@@ -1,0 +1,7 @@
+c:\users\310298433\source\repos\CSharpVersions\TaskYield\bin\Debug\TaskYield.exe.config
+c:\users\310298433\source\repos\CSharpVersions\TaskYield\bin\Debug\TaskYield.exe
+c:\users\310298433\source\repos\CSharpVersions\TaskYield\bin\Debug\TaskYield.pdb
+c:\users\310298433\source\repos\CSharpVersions\TaskYield\obj\Debug\TaskYield.csprojResolveAssemblyReference.cache
+c:\users\310298433\source\repos\CSharpVersions\TaskYield\obj\Debug\TaskYield.csproj.CoreCompileInputs.cache
+c:\users\310298433\source\repos\CSharpVersions\TaskYield\obj\Debug\TaskYield.exe
+c:\users\310298433\source\repos\CSharpVersions\TaskYield\obj\Debug\TaskYield.pdb

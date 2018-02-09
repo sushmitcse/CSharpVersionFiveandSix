@@ -1,0 +1,7 @@
+c:\users\310298433\source\repos\CSharpVersions\CSharpVersionSix\bin\Debug\CSharpVersionSix.exe.config
+c:\users\310298433\source\repos\CSharpVersions\CSharpVersionSix\bin\Debug\CSharpVersionSix.exe
+c:\users\310298433\source\repos\CSharpVersions\CSharpVersionSix\bin\Debug\CSharpVersionSix.pdb
+c:\users\310298433\source\repos\CSharpVersions\CSharpVersionSix\obj\Debug\CSharpVersionSix.csprojResolveAssemblyReference.cache
+c:\users\310298433\source\repos\CSharpVersions\CSharpVersionSix\obj\Debug\CSharpVersionSix.csproj.CoreCompileInputs.cache
+c:\users\310298433\source\repos\CSharpVersions\CSharpVersionSix\obj\Debug\CSharpVersionSix.exe
+c:\users\310298433\source\repos\CSharpVersions\CSharpVersionSix\obj\Debug\CSharpVersionSix.pdb
